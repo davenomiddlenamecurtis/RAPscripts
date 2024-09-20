@@ -1,0 +1,4 @@
+ukb24310_c1_b2924_v1.vcf.gz
+ukb24310_c1_b2925_v1.vcf.gz
+ukb24310_c1_b2926_v1.vcf.gz
+ukb24310_c1_b2927_v1.vcf.gz
