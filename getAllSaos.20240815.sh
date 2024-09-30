@@ -1,6 +1,6 @@
 #!/bin/bash
 set -x
-# get scores for all genes in a list using a model and file list of extra needed files
+# get saos and scores for all genes in a list using a model and file list of extra needed files
 # the scores are no longer downloaded but will be left in a suitable directory
 # the sao file will be downloaded
 # if the arg file runs tests then the sao file will contain the results
